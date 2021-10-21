@@ -1,0 +1,1 @@
+Olá. Este projeto foi realizado no curso Web Developer da Digital House. Ele consiste na introdução básica ao Spring com um programa que imprime "Hello World"
